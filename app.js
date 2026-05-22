@@ -116,9 +116,3 @@ function buyNow() {
         updateCartCount();
     }
 }
-
-
-
-
-
-//   javascript of add to card is complete but  javascript is different
